@@ -1,0 +1,9 @@
+*.jar
+*.war
+MiniURLWar/target/*
+MiniURLCore/target/*
+*.classpath
+*.project
+MiniURLWar/.settings/*
+MiniURLCore/.settings/*
+*.tern-project
